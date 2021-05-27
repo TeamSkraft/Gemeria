@@ -28,7 +28,7 @@ Items in the mod -
 	
   In desert pyramids, a new block can be found in the chest known as moon rock. Smelting it will give you moonite using which you can craft moon armor and sword.
 	
-  The moon sword does about 100 attack damage, but has only durability of a wooden sword.
+  The moon sword does about 100 attack damage, but only has the durability of a wooden sword.
 	
   4 new food items are added. Those are bagutte crafted with 3 breads kept horizontally in the crafting table, Cheese which can be obtained by smelting milk bucket however not eatable, cheese slices which can be crafted by keeping a cheese in the crafting bench and last is cheese burger which can be crafted with 2 bread and 1 cheese.
   
