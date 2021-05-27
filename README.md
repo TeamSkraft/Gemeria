@@ -16,7 +16,7 @@ Items in the mod -
 	
   A gem and ring combined will give you a gem ring which on right clickng gives you a effect.
 	
-  Galaxite doesn't have a ring but combining 8 galaxite gems and 1 slime block gives you a jumper block with which u can go immensly high.
+  Galaxite doesn't have a ring but combining 8 galaxite gems and 1 slime block gives you a jumper block with which you can do something very satisfying.
 	
   Each gem has its own ore found between y level 30 to 1.
 	
@@ -28,8 +28,8 @@ Items in the mod -
 	
   In desert pyramids, a new block can be found in the chest known as moon rock. Smelting it will give you moonite using which you can craft moon armor and sword.
 	
-  The moon sword does about 100 attack damage.
+  The moon sword does about 100 attack damage, but has only 1 durability.
 	
-  4 new food items are added. Those are bagutte crafted with 3 breads kept horizontally in the crafting table, Cheese which can be obtained by smelting milk bucket however not eatable, cheese slices which can be crafted by keeping a cheese in the crafting bench and last is cheese burger which can be crafted with 2 breads and 1 cheese.
+  4 new food items are added. Those are bagutte crafted with 3 breads kept horizontally in the crafting table, Cheese which can be obtained by smelting milk bucket however not eatable, cheese slices which can be crafted by keeping a cheese in the crafting bench and last is cheese burger which can be crafted with 2 bread and 1 cheese.
   
   Bats now drop bat meat which can be smelted in normal furnace only and gives you cooked bat meat
