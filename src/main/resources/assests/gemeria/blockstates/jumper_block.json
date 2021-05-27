@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "gemeria:block/jumper_block" }
+    }
+}

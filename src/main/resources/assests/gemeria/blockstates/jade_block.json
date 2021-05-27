@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "gemeria:block/jade_block" }
+    }
+}
