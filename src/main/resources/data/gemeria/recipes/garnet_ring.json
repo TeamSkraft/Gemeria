@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "gemeria:garnet"
+    },
+    "X": {
+      "item": "gemeria:ring"
+    }
+  },
+  "result": {
+    "item": "gemeria:garnet_ring"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "gemeria:amethyst"
+    },
+    "X": {
+      "item": "gemeria:ring"
+    }
+  },
+  "result": {
+    "item": "gemeria:amethyst_ring"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemeria:malachite_block"
+        }
+    ],
+    "result": {
+        "item": "gemeria:malachite",
+        "count": 9
+    }
+}

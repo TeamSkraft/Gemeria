@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemeria:bat_meat_uncooked"
+  },
+  "result": "gemeria:bat_meat",
+  "experience": 0.35,
+  "cookingtime": 200
+}

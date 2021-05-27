@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "gemeria:ruby"
+    },
+    "X": {
+      "item": "gemeria:ring"
+    }
+  },
+  "result": {
+    "item": "gemeria:ruby_ring"
+  }
+}

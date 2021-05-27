@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i i",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "gemeria:moonite"
+        }
+    },
+    "result": {
+        "item": "gemeria:moon_chestplate",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "gemeria:amethyst"
+        }
+    },
+    "result": {
+        "item": "gemeria:amethyst_block",
+        "count": 1
+    }
+}

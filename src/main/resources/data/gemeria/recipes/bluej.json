@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemeria:blue_jade_block"
+        }
+    ],
+    "result": {
+        "item": "gemeria:blue_jade",
+        "count": 9
+    }
+}

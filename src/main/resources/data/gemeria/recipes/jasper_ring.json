@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "gemeria:jasper"
+    },
+    "X": {
+      "item": "gemeria:ring"
+    }
+  },
+  "result": {
+    "item": "gemeria:jasper_ring"
+  }
+}

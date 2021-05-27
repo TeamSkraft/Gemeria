@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "gemeria:galaxite"
+    },
+    "X": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "result": {
+    "item": "gemeria:jumper_block"
+  }
+}

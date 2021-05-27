@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemeria:sapphire_block"
+        }
+    ],
+    "result": {
+        "item": "gemeria:sapphire",
+        "count": 9
+    }
+}

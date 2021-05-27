@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "gemeria:opal"
+        }
+    },
+    "result": {
+        "item": "gemeria:opal_block",
+        "count": 1
+    }
+}

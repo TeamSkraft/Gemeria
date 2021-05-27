@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemeria:irold"
+        }
+    ],
+    "result": {
+        "item": "gemeria:irold_nugget",
+        "count": 9
+    }
+}

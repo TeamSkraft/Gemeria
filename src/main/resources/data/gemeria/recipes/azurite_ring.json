@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "gemeria:azurite"
+    },
+    "X": {
+      "item": "gemeria:ring"
+    }
+  },
+  "result": {
+    "item": "gemeria:azurite_ring"
+  }
+}

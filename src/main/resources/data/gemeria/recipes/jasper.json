@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemeria:jasper_block"
+        }
+    ],
+    "result": {
+        "item": "gemeria:jasper",
+        "count": 9
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "gemeria:moon_rock"
+    },
+    "result": "gemeria:moonite",
+    "experience": 0.5,
+    "cookingtime": 200
+}

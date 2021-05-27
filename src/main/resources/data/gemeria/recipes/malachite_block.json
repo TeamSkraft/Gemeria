@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "gemeria:malachite"
+        }
+    },
+    "result": {
+        "item": "gemeria:malachite_block",
+        "count": 1
+    }
+}

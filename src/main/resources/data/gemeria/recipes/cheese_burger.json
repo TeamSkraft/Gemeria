@@ -1,0 +1,19 @@
+	{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bread"
+    },
+    "X": {
+      "item": "gemeria:cheese"
+    }
+  },
+  "result": {
+    "item": "gemeria:cheese_burger"
+  }
+}

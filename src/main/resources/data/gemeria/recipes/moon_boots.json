@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i i",
+        "i i"
+    ],
+    "key": {
+        "i": {
+            "item": "gemeria:moonite"
+        }
+    },
+    "result": {
+        "item": "gemeria:moon_boots",
+        "count": 1
+    }
+}

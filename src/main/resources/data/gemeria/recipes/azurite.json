@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemeria:azurite_block"
+        }
+    ],
+    "result": {
+        "item": "gemeria:azurite",
+        "count": 9
+    }
+}

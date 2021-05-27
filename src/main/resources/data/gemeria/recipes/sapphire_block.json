@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "gemeria:sapphire"
+        }
+    },
+    "result": {
+        "item": "gemeria:sapphire_block",
+        "count": 1
+    }
+}

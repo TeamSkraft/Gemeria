@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "gemeria:green_jade"
+        }
+    },
+    "result": {
+        "item": "gemeria:green_jade_block",
+        "count": 1
+    }
+}

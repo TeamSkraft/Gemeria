@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemeria:garnet_block"
+        }
+    ],
+    "result": {
+        "item": "gemeria:garnet",
+        "count": 9
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemeria:opal_block"
+        }
+    ],
+    "result": {
+        "item": "gemeria:opal",
+        "count": 9
+    }
+}

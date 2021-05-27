@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "gemeria:cheese"
+        }
+    },
+    "result": {
+        "item": "gemeria:cheese_slice",
+        "count": 8
+    }
+}

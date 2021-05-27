@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemeria:green_jade_block"
+        }
+    ],
+    "result": {
+        "item": "gemeria:green_jade",
+        "count": 9
+    }
+}
