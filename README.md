@@ -24,12 +24,12 @@ Items in the mod -
 	
   Vibranium Ingots can be crafted using netherite ingot, gold ingot, iron ingot, diamond.
 	
-	Vibranium tools and armor can be crafted using smithing table.
+  Vibranium tools and armor can be crafted using smithing table.
 	
-	In desert pyramids, a new block can be found in the chest known as moon rock. Smelting it will give you moonite using which you can craft moon armor and sword.
+  In desert pyramids, a new block can be found in the chest known as moon rock. Smelting it will give you moonite using which you can craft moon armor and sword.
 	
-	The moon sword does about 100 attack damage.
+  The moon sword does about 100 attack damage.
 	
-	4 new food items are added. Those are bagutte crafted with 3 breads kept horizontally in the crafting table, Cheese which can be obtained by smelting milk bucket however not eatable, cheese slices which can be crafted by keeping a cheese in the crafting bench and last is cheese burger which can be crafted with 2 breads and 1 cheese.
-	Bats now drop bat meat which can be smelted in normal furnace only and gives you cooked bat meat	
-	
+  4 new food items are added. Those are bagutte crafted with 3 breads kept horizontally in the crafting table, Cheese which can be obtained by smelting milk bucket however not eatable, cheese slices which can be crafted by keeping a cheese in the crafting bench and last is cheese burger which can be crafted with 2 breads and 1 cheese.
+  
+  Bats now drop bat meat which can be smelted in normal furnace only and gives you cooked bat meat
