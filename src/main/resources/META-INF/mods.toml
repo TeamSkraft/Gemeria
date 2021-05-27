@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="gemeria"
+version="1.0.0 - 1.16.4"
+displayName="Gemeria"
+logoFile="logo.png" 
+credits="Thanks to TurtyWurty, TechnoVision and Mr. Pineapple for teaching how to make the mod."
+authors="Team SKraft"
+description='''
+This mod consists of 15 new gems, their ores, rings made of them and lots more. The rings have special abilities and each ring is different than the other one.There is also a jumper block - see what you can do with it!!
+'''
