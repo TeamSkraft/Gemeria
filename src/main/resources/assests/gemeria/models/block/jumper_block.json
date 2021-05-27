@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "gemeria:blocks/jumper_block"
+    }
+}

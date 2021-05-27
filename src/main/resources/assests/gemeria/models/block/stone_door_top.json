@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "gemeria:blocks/stone_door_bottom",
+        "top": "gemeria:blocks/stone_door_top"
+    }
+}
